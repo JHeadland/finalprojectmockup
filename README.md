@@ -1,2 +1,2 @@
 # finalprojectmockup
-<img src="https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template/master/doc/meteor-application-template-youtube.png" width="600">
+<img src="https://github.com/Steven-Braun/finalprojectmockup/edit/open.png" width="600">
